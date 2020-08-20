@@ -15,7 +15,7 @@
     "express": "^4.16.4",
     "nodemon": "^1.19.0",
     "socket.io": "^2.2.0",
-    "bcrypt": "^3.0.4",
+    "bcrypt": "^5.0.0",
     "body-parse": "^0.1.0",
     "cors": "^2.8.5",
     "jsonwebtoken": "^8.5.0",
